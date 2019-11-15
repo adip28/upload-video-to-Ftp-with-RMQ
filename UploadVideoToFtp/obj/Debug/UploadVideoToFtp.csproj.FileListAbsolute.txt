@@ -1,0 +1,15 @@
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\UploadVideoToFtp.exe.config
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\UploadVideoToFtp.exe
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\UploadVideoToFtp.pdb
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\obj\Debug\UploadVideoToFtp.csprojResolveAssemblyReference.cache
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\obj\Debug\UploadVideoToFtp.Form1.resources
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\obj\Debug\UploadVideoToFtp.Properties.Resources.resources
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\obj\Debug\UploadVideoToFtp.csproj.GenerateResource.Cache
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\obj\Debug\UploadVideoToFtp.exe
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\obj\Debug\UploadVideoToFtp.pdb
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\Json.dll
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\Newtonsoft.Json.dll
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\RabbitMQ.Client.dll
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\Json.pdb
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\Newtonsoft.Json.xml
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\UploadVideoToFtp\bin\Debug\RabbitMQ.Client.xml

@@ -1,0 +1,10 @@
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\bin\x64\Debug\CreateVideoFromImage.exe.config
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\bin\x64\Debug\CreateVideoFromImage.exe
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\bin\x64\Debug\CreateVideoFromImage.pdb
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\bin\x64\Debug\AForge.Video.dll
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\bin\x64\Debug\AForge.Video.FFMPEG.dll
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\obj\x64\Debug\CreateVideoFromImage.Form1.resources
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\obj\x64\Debug\CreateVideoFromImage.Properties.Resources.resources
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\obj\x64\Debug\CreateVideoFromImage.csproj.GenerateResource.Cache
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\obj\x64\Debug\CreateVideoFromImage.exe
+G:\kuliah\project\PPTIK ITB\ATCS\Service\CreateVideoFromImage\CreateVideoFromImage\obj\x64\Debug\CreateVideoFromImage.pdb
