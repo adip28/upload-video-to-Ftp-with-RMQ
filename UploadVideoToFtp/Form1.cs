@@ -82,7 +82,7 @@ namespace UploadVideoToFtp
         public void uploadtoftp(String directory, String filename)
         {
 
-            FtpWebRequest request = (FtpWebRequest)WebRequest.Create("ftp://atcs-lampung.pptik.id/atcs%20lampung/videos/" + directory + "/" + filename + ".mp4");
+            FtpWebRequest request = (FtpWebRequest)WebRequest.Create("ftp://localhost/atcs%20lampung/videos/" + directory + "/" + filename + ".mp4");
             request.Method = WebRequestMethods.Ftp.UploadFile;
             request.UseBinary = true;
             request.UsePassive = true;
@@ -119,10 +119,10 @@ namespace UploadVideoToFtp
         private static void publishRmq(string path, string name)
         {
             ConnectionFactory factory = new ConnectionFactory();
-            factory.UserName = "atcs_lampung";
-            factory.Password = "atcslampung123!";
-            factory.VirtualHost = "/atcs_lampung";
-            factory.HostName = "rmq2.pptik.id";
+            factory.UserName = "xx";
+            factory.Password = "xx!";
+            factory.VirtualHost = "/xx";
+            factory.HostName = "localhost";
 
 
             using (var connection = factory.CreateConnection())
